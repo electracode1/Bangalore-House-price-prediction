@@ -18,7 +18,7 @@ performance using statistical metrics such as R² Score, Mean Absolute Error (MA
 Square Error (RMSE). These metrics help in assessing the accuracy and robustness of the prediction
 models. Once trained, the model can predict property prices for new input data, offering instant and
 objective estimates.
-Furthermore, the report discusses practical applications of this technology in real estate portals like
+practical applications of this technology in real estate portals like
 Magicbricks and Zillow, which already utilize similar systems for property valuation. The system can also
 benefit banks for loan assessments, government bodies for urban planning, and developers for project
 valuation. Future enhancements include integrating deep learning techniques, using satellite and street-
