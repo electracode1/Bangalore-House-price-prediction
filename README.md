@@ -1,2 +1,2 @@
-# Bangalore-House-price-prediction
-Bangalore HP model
+# Bangalore-House-Price-Prediction
+Price-Prediction Model
